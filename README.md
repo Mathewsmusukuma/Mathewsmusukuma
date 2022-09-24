@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Mathews
 
 
-- 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a> and <a href="https://soliditylang.org/" target="_blank">Solidity</a>
-- 👯 I’m looking to collaborate on Python, Flutter and Blockchain technology.
+- 🌱 I’m currently learning new techs
+- 👯 I’m looking to collaborate on Python.
 
 - 📫 How to reach me: 
 
@@ -15,17 +15,24 @@
 
 
 
-<!--
-**Mathewsmusukuma/Mathewsmusukuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```Python
+lanGuage= ["Python", "JavaScript"],
+frontEnd= {
+            js: ["React"],
+            css: ["bootstrap","Tailwind"]
+          }
+backEnd=  {
+            python: ["Django", "Django Rest Framework"],
+            Node.js:["Express"]
+          } 
+dataBases= ["PostgreSQL", "MySql"],
+others: ["Redux","Celery","Redis","Heroku","Git","Aws s3", "Aws Ec2"]
+```
+![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sikaili99&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<h1 align="center"> <img align="left" src="https://komarev.com/ghpvc/?username=sany07" /></h1>
