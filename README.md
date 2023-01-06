@@ -39,7 +39,3 @@ others: ["Redux","Celery","Redis","Heroku","Git","Aws s3", "Aws Ec2"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sikaili99&show_icons=true&hide_border=true)
 
-
-
-
-<h1 align="center"> <img align="left" src="https://komarev.com/ghpvc/?username=sikaili99" /></h1>
