@@ -37,5 +37,3 @@ dataBases= ["PostgreSQL", "MySql"],
 
 others: ["Redux","Celery","Redis","Heroku","Git","Aws s3", "Aws Ec2"]
 ```
-![Mathews' Github Stats](https://github-readme-stats.vercel.app/api?username=sikaili99&show_icons=true&hide_border=true)
-
